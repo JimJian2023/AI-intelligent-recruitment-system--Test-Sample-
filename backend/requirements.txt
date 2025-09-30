@@ -15,7 +15,7 @@ django-redis==5.4.0
 celery==5.3.4
 
 # AI/ML库
-scikit-learn==1.3.2
+scikit-learn
 pandas==2.1.3
 numpy==1.25.2
 joblib==1.3.2
